@@ -40,3 +40,4 @@
 3. Animation
 4. Webpack
 5. Mathmatics
+6. GSAP
