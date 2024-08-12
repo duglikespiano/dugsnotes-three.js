@@ -46,3 +46,4 @@
 9. Camera
 10. Orbit controls
 11. Geometries
+12. Texture
